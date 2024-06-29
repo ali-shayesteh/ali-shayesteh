@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-shayesteh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning reactJS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm a frontend engineer specialized in Javascript, Reactjs, Nextjs and a performance enthusiast.
+- 🌱 I’m Currently learning typescript, TDD along with Jest and Cypress, and NX to expand my knowledge as a frontend engineer.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me ...
 
 <!---
