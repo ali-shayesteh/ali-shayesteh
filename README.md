@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ali-shayesteh
-- 👀 I'm a frontend engineer specialized in Javascript, Reactjs, Nextjs and a performance enthusiast.
-- 🌱 I’m Currently learning typescript, TDD along with Jest and Cypress, and NX to expand my knowledge as a frontend engineer.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me ...
-
-<!---
-ali-shayesteh/ali-shayesteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ali Shayesteh
+- 💻 Frontend Engineer with a strong focus on building scalable, performant, and maintainable web applications using JavaScript, React, and Next.js.
+- 🧠 Experienced in component-based architecture, design systems, frontend performance optimization, and modern frontend tooling.
+ - 🤝 Open to collaborating on frontend and web application projects.
+- 📫 How to reach me: alishayesteh@gmail.com
